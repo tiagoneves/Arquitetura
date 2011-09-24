@@ -10,6 +10,7 @@ import javafx.scene.shape.Circle;
 
 public abstract class Componente {
 
+	//testando
 	protected Circle circulo;
 	
 	protected Label nome;
